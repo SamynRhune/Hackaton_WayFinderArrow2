@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+
+.test {
+    height: 650px;
+    width: 1000px;
+    position: center;
+}
+
+.hoofd {
+    font-weight: bold;
+}
+
+body {
+    margin-left: 200px;
+}
+
+#menu {
+    margin-top: 20px;
+}
+.bovenop{
+    position: absolute;
+    left: auto;
+    right: auto;
+}
+
+/* Hide fullscreen button */
+.a-enter-vr.fullscreen {
+    display: none;
+}
+
+input[type=button], select {
+    padding: 8px;
+    margin: 4px;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #f3f1f1;
+    border: none;
+    position: relative;
+    bottom: auto;
+}
+
+label, span, p {
+    color: #f3f1f1;
+}
